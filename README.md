@@ -7,7 +7,7 @@ Please contact me with dev.ryan.1121@gmail.com.
 
 ## Welcome
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=dmb-dev87&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=RisingTalent7&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=github_dark)
 ![My github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RisingTalent7&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=github_dark&show_icons=true)
 
 ## Top Skills
